@@ -1,6 +1,6 @@
 # Librería de sistema cuántico de partícula en una línea
 
-Es una librería la cual realiza la simulacion de unba partícula confinada a un conjunto discreto de posiciones en una línea. El simulador permitir especificar el número de posiciones y un vector ket de estado asignando las amplitudes.
+Es una librería la cual realiza la simulacion de una partícula confinada a un conjunto discreto de posiciones en una línea. El simulador permitir especificar el número de posiciones y un vector ket de estado asignando las amplitudes.
 
 # Como instalar la libreria  
 
@@ -27,7 +27,7 @@ En este caso la libreria coje matrices con numeros reales, como  con numeros com
 
 Las funciones que vamos a encontrar se encuentra: 
 
--  El sistema debe calcular la probabilidad de encontrarlo en una posición en particular
+- El sistema debe calcular la probabilidad de encontrarlo en una posición en particular
 - El sistema si se le da otro vector Ket debe buscar la probabilidad de transitar del primer vector al segundo.
 
 
